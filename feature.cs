@@ -1,1 +1,1 @@
-conflict 1
+Console.WriteLine("Feature 1");
